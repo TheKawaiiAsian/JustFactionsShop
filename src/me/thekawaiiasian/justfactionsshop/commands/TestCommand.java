@@ -52,7 +52,7 @@ public class TestCommand implements CommandExecutor{
             @Override
             public void run() {
 
-                npc.setHealth(0);
+
             }
         }, 40L);
 

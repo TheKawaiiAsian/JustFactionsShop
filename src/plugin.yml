@@ -1,0 +1,9 @@
+name: JFShop
+main: me.thekawaiiasian.justfactionsshop.Core
+version: 1.0
+author: TheKawaiiAsian
+description: JF Shop
+
+commands:
+    shop:
+    test:

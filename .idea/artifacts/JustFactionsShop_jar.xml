@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JustFactionsShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JustFactionsShop_jar</output-path>
+    <root id="archive" name="JustFactionsShop.jar">
+      <element id="module-output" name="JustFactionsShop" />
+    </root>
+  </artifact>
+</component>
